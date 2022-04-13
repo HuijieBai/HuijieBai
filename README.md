@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HuijieBai
+- 👋 Hi, I’m HuijieBai
 - 👀 I’m interested in C/C++ and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on VNI
